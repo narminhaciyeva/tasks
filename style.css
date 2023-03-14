@@ -1,0 +1,14 @@
+{
+    box sizing:border block;
+    margin: 1.2%;
+    paddning: 0.5%;
+    
+}
+.topic{
+
+    width:10%;
+    display:inline-block;
+    text-align: center;
+    border: 1px solid silver;
+    margin:10%;
+    }
